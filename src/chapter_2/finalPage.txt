@@ -1,0 +1,2 @@
+We learnt local ->commit-->remote
+and pull from remote to local
